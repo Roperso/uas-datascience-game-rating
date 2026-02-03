@@ -105,6 +105,7 @@ Prediksi yang dihasilkan merupakan estimasi berdasarkan pola historis data dan t
 ---
 
 ## 👤 Informasi
+- Kelompok : Awfi Muhammad (D112311002) & Rizky Amelia Putri (D112311013)
 - Mata Kuliah: Data Science  
 - Program Studi: Teknik Informatika  
 - Semester: 5  
