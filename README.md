@@ -95,7 +95,7 @@ game-rating-prediction/
 Aplikasi dideploy menggunakan **Streamlit Community Cloud**.
 
 🔗 **Link Aplikasi:**  
-> *(isi dengan link Streamlit setelah deploy)*
+> *(https://game-rating-prediction.streamlit.app/)*
 
 ---
 
